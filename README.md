@@ -18,6 +18,8 @@ git commit -m "New README added"
 # See past commits
 git log
 git log --oneline
+# Pull changes from remote repository
+git pull
 # Push changes to remote repository
 git push
 ```
