@@ -18,6 +18,8 @@ git commit -m "New README added"
 # See past commits
 git log
 git log --oneline
+# Push changes to remote repository
+git push
 ```
 
 ```sql
